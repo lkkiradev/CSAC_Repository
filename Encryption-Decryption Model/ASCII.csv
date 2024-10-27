@@ -1,0 +1,257 @@
+﻿Code,Character,Description
+0,NUL,Null character
+1,SOH,Start of Header
+2,STX,Start of Text
+3,ETX,End of Text
+4,EOT,End of Transmission
+5,ENQ,Enquiry
+6,ACK,Acknowledgment
+7,BEL,Bell
+8,BS,Backspace
+9,TAB,Horizontal Tab
+10,LF,Line Feed
+11,VT,Vertical Tab
+12,FF,Form Feed
+13,CR,Carriage Return
+14,SO,Shift Out
+15,SI,Shift In
+16,DLE,Data Link Escape
+17,DC1,Device Control 1 (XON)
+18,DC2,Device Control 2
+19,DC3,Device Control 3 (XOFF)
+20,DC4,Device Control 4
+21,NAK,Negative Acknowledgment
+22,SYN,Synchronous Idle
+23,ETB,End of Trans. Block
+24,CAN,Cancel
+25,EM,End of Medium
+26,SUB,Substitute
+27,ESC,Escape
+28,FS,File Separator
+29,GS,Group Separator
+30,RS,Record Separator
+31,US,Unit Separator
+32,Space,Space
+33,!,Exclamation mark
+34,"""",Double quotes
+35,#,Number
+36,$,Dollar
+37,%,Percent
+38,&,Ampersand
+39,',Single quote
+40,(,Open parenthesis
+41,),Close parenthesis
+42,*,Asterisk
+43,+,Plus
+44,",",Comma
+45,-,Minus
+46,.,Period
+47,/,Slash
+48,0,Digit 0
+49,1,Digit 1
+50,2,Digit 2
+51,3,Digit 3
+52,4,Digit 4
+53,5,Digit 5
+54,6,Digit 6
+55,7,Digit 7
+56,8,Digit 8
+57,9,Digit 9
+58,:,Colon
+59,;,Semicolon
+60,<,Less than
+61,=,Equal
+62,>,Greater than
+63,?,Question mark
+64,@,At sign
+65,A,Uppercase A
+66,B,Uppercase B
+67,C,Uppercase C
+68,D,Uppercase D
+69,E,Uppercase E
+70,F,Uppercase F
+71,G,Uppercase G
+72,H,Uppercase H
+73,I,Uppercase I
+74,J,Uppercase J
+75,K,Uppercase K
+76,L,Uppercase L
+77,M,Uppercase M
+78,N,Uppercase N
+79,O,Uppercase O
+80,P,Uppercase P
+81,Q,Uppercase Q
+82,R,Uppercase R
+83,S,Uppercase S
+84,T,Uppercase T
+85,U,Uppercase U
+86,V,Uppercase V
+87,W,Uppercase W
+88,X,Uppercase X
+89,Y,Uppercase Y
+90,Z,Uppercase Z
+91,[,Opening bracket
+92,\,Backslash
+93,],Closing bracket
+94,^,Caret
+95,_,Underscore
+96,`,Grave accent
+97,a,Lowercase a
+98,b,Lowercase b
+99,c,Lowercase c
+100,d,Lowercase d
+101,e,Lowercase e
+102,f,Lowercase f
+103,g,Lowercase g
+104,h,Lowercase h
+105,i,Lowercase i
+106,j,Lowercase j
+107,k,Lowercase k
+108,l,Lowercase l
+109,m,Lowercase m
+110,n,Lowercase n
+111,o,Lowercase o
+112,p,Lowercase p
+113,q,Lowercase q
+114,r,Lowercase r
+115,s,Lowercase s
+116,t,Lowercase t
+117,u,Lowercase u
+118,v,Lowercase v
+119,w,Lowercase w
+120,x,Lowercase x
+121,y,Lowercase y
+122,z,Lowercase z
+123,{,Opening brace
+124,|,Vertical bar
+125,},Closing brace
+126,~,Tilde
+127,DEL,Delete
+128,Ç,Latin capital letter C with cedilla
+129,ü,Latin small letter u with diaeresis
+130,é,Latin small letter e with acute
+131,â,Latin small letter a with circumflex
+132,ä,Latin small letter a with diaeresis
+133,à,Latin small letter a with grave
+134,å,Latin small letter a with ring above
+135,ç,Latin small letter c with cedilla
+136,ê,Latin small letter e with circumflex
+137,ë,Latin small letter e with diaeresis
+138,è,Latin small letter e with grave
+139,ï,Latin small letter i with diaeresis
+140,î,Latin small letter i with circumflex
+141,ì,Latin small letter i with grave
+142,Ä,Latin capital letter A with diaeresis
+143,Å,Latin capital letter A with ring above
+144,É,Latin capital letter E with acute
+145,æ,Latin small letter ae
+146,Æ,Latin capital letter AE
+147,ô,Latin small letter o with circumflex
+148,ö,Latin small letter o with diaeresis
+149,ò,Latin small letter o with grave
+150,û,Latin small letter u with circumflex
+151,ù,Latin small letter u with grave
+152,ÿ,Latin small letter y with diaeresis
+153,Ö,Latin capital letter O with diaeresis
+154,Ü,Latin capital letter U with diaeresis
+155,¢,Cent sign
+156,£,Pound sign
+157,¥,Yen sign
+158,₧,Peseta sign
+159,ƒ,Latin small letter f with hook
+160,á,Latin small letter a with acute
+161,í,Latin small letter i with acute
+162,ó,Latin small letter o with acute
+163,ú,Latin small letter u with acute
+164,ñ,Latin small letter n with tilde
+165,Ñ,Latin capital letter N with tilde
+166,ª,Feminine ordinal indicator
+167,º,Masculine ordinal indicator
+168,¿,Inverted question mark
+169,⌐,Reversed not sign
+170,¬,Not sign
+171,½,One-half
+172,¼,One-quarter
+173,¡,Inverted exclamation mark
+174,«,Left-pointing double angle quotation mark
+175,»,Right-pointing double angle quotation mark
+176,░,Light shade
+177,▒,Medium shade
+178,▓,Dark shade
+179,│,Box drawings light vertical
+180,┤,Box drawings light vertical and left
+181,Á,Latin capital letter A with acute
+182,Â,Latin capital letter A with circumflex
+183,À,Latin capital letter A with grave
+184,©,Copyright sign
+185,╣,Box drawings double vertical and left
+186,║,Box drawings double vertical
+187,╗,Box drawings double down and left
+188,╝,Box drawings double up and left
+189,¢,Cent sign
+190,¥,Yen sign
+191,┐,Box drawings light down and left
+192,└,Box drawings light up and right
+193,┴,Box drawings light up and horizontal
+194,┬,Box drawings light down and horizontal
+195,├,Box drawings light vertical and right
+196,─,Box drawings light horizontal
+197,┼,Box drawings light vertical and horizontal
+198,ã,Latin small letter a with tilde
+199,Ã,Latin capital letter A with tilde
+200,╚,Box drawings double up and right
+201,╔,Box drawings double down and right
+202,╩,Box drawings double up and horizontal
+203,╦,Box drawings double down and horizontal
+204,╠,Box drawings double vertical and right
+205,═,Box drawings double horizontal
+206,╬,Box drawings double vertical and horizontal
+207,¤,Currency sign
+208,ð,Latin small letter eth
+209,Ð,Latin capital letter Eth
+210,Ê,Latin capital letter E with circumflex
+211,Ë,Latin capital letter E with diaeresis
+212,È,Latin capital letter E with grave
+213,ı,Latin small letter dotless i
+214,Í,Latin capital letter I with acute
+215,Î,Latin capital letter I with circumflex
+216,Ï,Latin capital letter I with diaeresis
+217,┘,Box drawings light up and left
+218,┌,Box drawings light down and right
+219,█,Full block
+220,▄,Lower half block
+221,¦,Broken bar
+222,Ì,Latin capital letter I with grave
+223,▀,Upper half block
+224,Ó,Latin capital letter O with acute
+225,ß,Latin small letter sharp s
+226,Ô,Latin capital letter O with circumflex
+227,Ò,Latin capital letter O with grave
+228,õ,Latin small letter o with tilde
+229,Õ,Latin capital letter O with tilde
+230,µ,Micro sign
+231,þ,Latin small letter thorn
+232,Þ,Latin capital letter thorn
+233,Ú,Latin capital letter U with acute
+234,Û,Latin capital letter U with circumflex
+235,Ù,Latin capital letter U with grave
+236,ý,Latin small letter y with acute
+237,Ý,Latin capital letter Y with acute
+238,¯,Macron
+239,´,Acute accent
+240,­,Soft hyphen
+241,±,Plus-minus sign
+242,‗,Double low line
+243,¾,Three-quarters
+244,¶,Pilcrow sign
+245,§,Section sign
+246,÷,Division sign
+247,¸,Cedilla
+248,°,Degree sign
+249,¨,Diaeresis
+250,·,Middle dot
+251,¹,Superscript one
+252,³,Superscript three
+253,²,Superscript two
+254,■,Black square
+255,,No-break space
